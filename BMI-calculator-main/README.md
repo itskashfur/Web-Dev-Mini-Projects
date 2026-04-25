@@ -31,3 +31,6 @@ This application allows users to easily calculate their Body Mass Index by input
 - `index.html` - The main HTML document containing the structure.
 - `style.css` - The stylesheet for the application's visual design.
 - `script.js` - The JavaScript file containing validation and calculation logic.
+
+---------------------------------------------------------------------
+Credit :- [CoadWoad](https://www.instagram.com/coadwoad)
